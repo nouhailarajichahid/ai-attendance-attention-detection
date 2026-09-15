@@ -1,0 +1,42 @@
+2026-04-22 06:47:34,232 - utils.deepface_utils - INFO - DeepFace imported successfully
+2026-04-22 06:54:39,079 - utils.deepface_utils - ERROR - Error in verify_faces: 'tuple' object has no attribute 'shape'
+2026-04-28 17:37:04,118 - utils.deepface_utils - INFO - DeepFace imported successfully
+2026-04-28 17:38:22,431 - utils.deepface_utils - ERROR - Error in verify_faces: 'tuple' object has no attribute 'shape'
+2026-04-28 17:50:19,419 - __main__ - ERROR - Combined Report error: No module named 'mediapipe'
+2026-04-28 17:50:39,184 - __main__ - ERROR - Combined Report error: No module named 'mediapipe'
+2026-04-28 17:55:45,814 - utils.deepface_utils - INFO - DeepFace imported successfully
+2026-04-28 18:31:03,129 - utils.deepface_utils - INFO - DeepFace imported successfully
+2026-04-28 18:35:27,477 - utils.deepface_utils - ERROR - Error in verify_faces: 'tuple' object has no attribute 'shape'
+2026-04-28 18:35:31,152 - utils.deepface_utils - ERROR - Error in verify_faces: 'tuple' object has no attribute 'shape'
+2026-04-28 18:36:33,126 - __main__ - ERROR - Error updating attendance: `st.button()` can't be used in an `st.form()`.
+
+For more information, refer to the
+[documentation for forms](https://docs.streamlit.io/library/api-reference/control-flow/st.form).
+
+2026-04-28 18:38:41,428 - utils.attention_detector - ERROR - get_attention_summary: no such table: attention_records
+2026-04-28 18:39:32,015 - utils.attention_detector - ERROR - save_attention_record: no such table: attention_records
+2026-04-28 18:40:31,563 - utils.attention_detector - ERROR - get_attention_summary: no such table: attention_records
+2026-04-28 18:40:39,598 - utils.attention_detector - ERROR - get_attention_summary: no such table: attention_records
+2026-04-28 18:41:23,311 - utils.attention_detector - ERROR - save_attention_record: no such table: attention_records
+2026-04-28 18:41:30,518 - utils.attention_detector - ERROR - get_attention_summary: no such table: attention_records
+2026-04-28 18:41:34,371 - utils.attention_detector - ERROR - get_attention_summary: no such table: attention_records
+2026-04-28 18:41:40,585 - utils.attention_detector - ERROR - get_attention_summary: no such table: attention_records
+2026-04-28 18:45:39,469 - utils.deepface_utils - INFO - DeepFace imported successfully
+2026-04-28 18:50:55,214 - utils.deepface_utils - ERROR - Error in verify_faces: 'tuple' object has no attribute 'shape'
+2026-04-28 22:34:08,476 - __main__ - ERROR - ESP32-CAM connection error: HTTPConnectionPool(host='esp32-cam-ip', port=80): Max retries exceeded with url: /capture (Caused by NameResolutionError("HTTPConnection(host='esp32-cam-ip', port=80): Failed to resolve 'esp32-cam-ip' ([Errno 11001] getaddrinfo failed)"))
+2026-04-28 22:34:47,698 - utils.deepface_utils - ERROR - Error in verify_faces: 'tuple' object has no attribute 'shape'
+2026-04-30 03:36:10,520 - utils.deepface_utils - INFO - DeepFace imported successfully
+2026-04-30 04:43:45,901 - __main__ - ERROR - Error updating attendance: `st.button()` can't be used in an `st.form()`.
+
+For more information, refer to the
+[documentation for forms](https://docs.streamlit.io/library/api-reference/control-flow/st.form).
+
+2026-04-30 06:05:03,337 - utils.deepface_utils - INFO - DeepFace imported successfully
+2026-04-30 06:24:45,896 - __main__ - ERROR - Error updating attendance: `st.button()` can't be used in an `st.form()`.
+
+For more information, refer to the
+[documentation for forms](https://docs.streamlit.io/library/api-reference/control-flow/st.form).
+
+2026-04-30 16:32:46,337 - utils.deepface_utils - INFO - DeepFace imported successfully
+2026-04-30 19:58:32,071 - utils.deepface_utils - ERROR - Error in verify_faces: 'tuple' object has no attribute 'shape'
+2026-04-30 19:58:37,192 - utils.deepface_utils - ERROR - Error in verify_faces: 'tuple' object has no attribute 'shape'
